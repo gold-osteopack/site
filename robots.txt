@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ВАШ_ДОМЕН/sitemap.xml
+Sitemap: https://gold-osteopack.github.io/sitemap.xml
